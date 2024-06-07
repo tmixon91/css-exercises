@@ -40,3 +40,20 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+
+/* MY EDITS */
+
+.para,
+.text.child {
+  font-weight: bold;
+}
+
+.para.small-para {
+  font-size: 14px;
+}
+
+#confirm-button {
+  background-color: green;
+  color: white;
+}
+
